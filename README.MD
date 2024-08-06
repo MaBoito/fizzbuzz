@@ -15,6 +15,11 @@ FizzBuzz é um desafio em que consiste nas regras abaixo:
 - Caso não seja divisível por 3 ou 5 retorne o número de entrada
 - Caso não seja um número retorne a mensagem "Não é um número"
 
+Para visualizar o resultado do desafio, abra o navegador, utilize o DevTools, para testar novos resultados utilize o comando:
+
+console.log(fizzbuzz(10))
+
+Nesse exemplo foi utilizado o número 10.
 
 
 ## 🚀 Tecnologias

@@ -1,11 +1,3 @@
-// fizzbuzz
-
-// divisivel por 3 = fizz 
-// divisivel por 5 = buzz
-// divisivel pelos 2 = fizzbuzz
-// nao divisivel por 3 ou 5 = entrada
-// se não é numero retornar mensagem não é numero
-
 const resultado = fizzbuzz(15);
 console.log(resultado);
 
